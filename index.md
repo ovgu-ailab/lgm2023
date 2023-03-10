@@ -6,7 +6,7 @@ title: Index
 # Learning Generative Models
 ---------------------------------
 
-Summer Semester 2023
+Summer Semester 2023  
 [Prof. Dr. Sebastian Stober](http://www.ai.ovgu.de/Staff/Stober.html)  
 [Jens Johannsmeier, M.Sc.](http://www.ai.ovgu.de/Staff/Johannsmeier.html)  
 Lecture: Tue 09:00-11:00; G29-K058  
