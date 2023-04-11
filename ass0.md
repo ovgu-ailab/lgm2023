@@ -23,10 +23,6 @@ for this class.**
 
 ## General Assignment Notes
 
-**Please note: These are subject to change. This document may be updated.
-How assignment submission works, and
-whether they need to be submitted at all, will be discussed in the first lecture!**
-
 - Assignments will generally
 consist of writing code, usually to implement some kind of generative model and
 to apply it/play around with it a little. If something is unclear, or you run
