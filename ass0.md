@@ -131,7 +131,7 @@ is maximized. Equivalently, we may minimize the negative logarithm of the probab
 use this as a loss function. Simplify as much as possible.
  Report on problems you run into, points where you
 felt stuck etc. Note that in practice we often make simplifying assumptions, such
-as setting the variance to a constant and only optimizing with regards to the mean 
+as setting the variance to a constant and only optimizing with regard to the mean 
   in case of a Gaussian distribution.
 - Train your network. With `theta` as the output of the decoder, backpropagation
 automatically trains the _network parameters_ such that the _distribution parameters_
