@@ -36,3 +36,17 @@ lectures:
     assignment:
       - label: "Assignment 1: Probability Review"
         link: ass1.html
+
+  - date: 2022-04-25
+    type:
+    content:
+    - title: Partition Function & RBMs
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 18: Confronting the Partition Function (selected passages)"
+      url: http://www.deeplearningbook.org/contents/partition.html
+    - title: "Deep Learning Book - Chapter 20: Deep Generative Models (selected passages)"
+      url: http://www.deeplearningbook.org/contents/generative_models.html
+    assignment:
+        - label: reading
+          link: reading2.html
