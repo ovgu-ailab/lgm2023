@@ -26,7 +26,7 @@ From the [Deep Learning Book - Chapter 18: Confronting the Partition Function](h
 
 For the actual application of these techniques, please read these sections from the [Deep Learning Book - Chapter 20: Deep Generative Models](http://www.deeplearningbook.org/contents/generative_models.html):
 
-* Sections 20 (intro), 20.1,2 20.2 with focus on:
+* Sections 20 (intro), 20.1, 20.2 with focus on:
   * What are the Energy functions of a Boltzmann Machine (BM) and a Restricted Boltzmann Machine (RBM)?
   * How would the partition function of an RBM be computed?
   * What makes sampling in an RBM efficient?
