@@ -9,22 +9,24 @@ id: reading2
 
 From the [Deep Learning Book - Chapter 18: Confronting the Partition Function](http://www.deeplearningbook.org/contents/partition.html), please read these sections:
 
-* Sections 18, 18.1, 18.2 & 18.3 (low priority) with focus on:
+* Sections 18 (intro), 18.1, 18.2 with focus on:
   * What are positive and negative phase of learning?
   * Which role does the partition function play in learning generative models?
   * How do we avoid to compute the partition function directly and why is it possible to do this?
   * How does Contrastive Divergence (CD) work and what (dis)advantages does this method have?
   * How does Persistent Contrastive Divergence (PCD) work and what (dis)advantages does this method have?
   * What is the relation between PCD and Stochastic Maximum Likelihood?
-  * Low priority: What is the idea behind Pseudolikelihood?
+  * Optional, Section 18.3: What is the idea behind Pseudolikelihood?
 
-* Sections 18.7 & 18.7.1 (low priority; no details necessary):
+* Sections 18.7 & 18.7.1 (optional, low priority):
   * What are possible ways of estimating the partition function?
   * What is the idea of Annealed Importance Sampling (AIS)?
+  * Note: You will probably need to read the section on Importance
+  Sampling (Chapter 17.2) to understand this.
 
 For the actual application of these techniques, please read these sections from the [Deep Learning Book - Chapter 20: Deep Generative Models](http://www.deeplearningbook.org/contents/generative_models.html):
 
-* Sections 20 - 20.2 with focus on:
+* Sections 20 (intro), 20.1,2 20.2 with focus on:
   * What are the Energy functions of a Boltzmann Machine (BM) and a Restricted Boltzmann Machine (RBM)?
   * How would the partition function of an RBM be computed?
   * What makes sampling in an RBM efficient?
