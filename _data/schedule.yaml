@@ -59,3 +59,14 @@ lectures:
     assignment:
       - label: "Assignment 2: Monte Carlo & Gibbs Sampling"
         link: ass2.html
+
+  - date: 2022-05-02
+    type:
+    content:
+      - title: Approximate Inference & VAEs
+        slides:
+    reading:
+      - title: "Selected resources"
+    assignment:
+      - label: reading
+        link: reading3.html
