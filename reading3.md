@@ -44,7 +44,7 @@ one of these links, make it this one.**
 - [This blog](https://kvfrans.com/variational-autoencoders-explained/) gives a rather
 simplified explanation. This can be good as a first piece of context, but you
 should aim for a deeper understanding in this class.
-- A longer, more in-depth treatment can be found [here}](https://arxiv.org/pdf/1606.05908.pdf)].
+- A longer, more in-depth treatment can be found [here](https://arxiv.org/pdf/1606.05908.pdf).
 - Finally, you can read the [original paper](https://arxiv.org/pdf/1312.6114.pdf),
 if you want.
   - [This paper](https://arxiv.org/pdf/1401.4082.pdf) is often credited as essentially
