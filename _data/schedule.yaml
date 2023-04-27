@@ -37,7 +37,7 @@ lectures:
       - label: "Assignment 1: Probability Review"
         link: ass1.html
 
-  - date: 2022-04-25
+  - date: 2023-04-25
     type:
     content:
     - title: Partition Function & RBMs
@@ -51,7 +51,7 @@ lectures:
         - label: reading
           link: reading2.html
 
-  - date: 2022-04-27
+  - date: 2023-04-27
     type:
     content:
       - title: Exercise 03
@@ -60,7 +60,7 @@ lectures:
       - label: "Assignment 2: Monte Carlo & Gibbs Sampling"
         link: ass2.html
 
-  - date: 2022-05-02
+  - date: 2023-05-02
     type:
     content:
       - title: Approximate Inference & VAEs
@@ -70,3 +70,12 @@ lectures:
     assignment:
       - label: reading
         link: reading3.html
+
+  - date: 2023-05-04
+    type:
+    content:
+      - title: Exercise 04
+        slides:
+    assignment:
+      - label: "Assignment 3: Restricted Boltzmann Machines"
+        link: ass3.html
