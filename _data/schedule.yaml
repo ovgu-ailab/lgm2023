@@ -86,8 +86,7 @@ lectures:
     - title: Generative Adversarial Networks
       slides:
     reading:
-    - title: "Probabilistic Machine Learning: Advanced Topics -- Chapter 25 up to (including) 25.3"
-      url: https://probml.github.io/pml-book/book2.html
+    - title: "Selected resources"
     assignment:
         - label: reading
           link: reading4.html
