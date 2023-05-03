@@ -19,7 +19,7 @@ of so-called implicit likelihood models, as well as providing a unified framewor
 for many different GAN variants. If you want a simpler, more heuristic approach,
 consider reading [the original paper](https://arxiv.org/pdf/1406.2661.pdf). As 
 another alternative, you could consider 
-[this blog post](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+[this blog post](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29).
 
 Finally, [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) was the first paper to 
 demonstrate successful use of CNNs in GANs. The paper includes many "design principles"
