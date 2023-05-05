@@ -91,7 +91,7 @@ lectures:
         - label: reading
           link: reading4.html
 
-  - date: 2023-05-13
+  - date: 2023-05-11
     type:
     content:
       - title: Exercise 05
@@ -99,4 +99,3 @@ lectures:
     assignment:
       - label: "Assignment 4: Variational Autoencoders"
         link: ass4.html
-  
