@@ -36,6 +36,7 @@ value range your layer returns. That is, choose a sensible activation function!
   returns values > 0. However, it is often unstable (values/gradients tend to explode).
   If you are struggling with `nan` losses, try the following:
     - Use another function like `tf.nn.softplus`. This does not explode like `exp`.
+    However, it seems to lead to worse results empirically.
     - Initialize the weights of your variance layer to 0. Then all outputs will
     be 0 initially, and `exp(0) = 1`. Empirically, this seems to prevent `nan`
     issues due to unstable gradients.
