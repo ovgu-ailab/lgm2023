@@ -32,6 +32,14 @@ with the standard deviation and add the mean (this implements the "reparameteriz
 Be careful with the layer that
 generates standard deviations/variances; think about what value range these can be in and what
 value range your layer returns. That is, choose a sensible activation function!
+  - You will commonly find `tf.exp` as a choice here. This is appropriate as it always
+  returns values > 0. However, it is often unstable (values/gradients tend to explode).
+  If you are struggling with `nan` losses, try the following:
+    - Use another function like `tf.nn.softplus`. This does not explode like `exp`.
+    - Initialize the weights of your variance layer to 0. Then all outputs will
+    be 0 initially, and `exp(0) = 1`. Empirically, this seems to prevent `nan`
+    issues due to unstable gradients.
+    - Reduce the learning rate.
 - Add a regularizer term to the reconstruction loss, corresponding to the KL-divergence.
 The exact form of this for the Gaussian case can be found in many available
   tutorials (like [this one](https://kvfrans.com/variational-autoencoders-explained/)),
