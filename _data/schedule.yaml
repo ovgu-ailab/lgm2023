@@ -111,15 +111,6 @@ lectures:
         - label: reading
           link: reading5.html
 
-  - date: 2023-05-25
-    type:
-    content:
-      - title: Exercise 06
-        slides:
-    assignment:
-      - label: "Assignment 5: Generative Adversarial Networks"
-        link: ass5.html
-
   - date: 2022-05-23
     type:
     content:
@@ -130,3 +121,24 @@ lectures:
     assignment:
         - label: reading
           link: reading6.html
+
+  - date: 2023-05-25
+    type:
+    content:
+      - title: Exercise 06
+        slides:
+    assignment:
+      - label: "Assignment 5: Generative Adversarial Networks"
+        link: ass5.html
+
+
+  - date: 2022-05-30
+    type:
+    content:
+    - title: Normalizing Flows
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading7.html
