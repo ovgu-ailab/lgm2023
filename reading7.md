@@ -15,16 +15,13 @@ along with an overview over different methods.
 - An approachable introduction to normalizing flows can be found in 
 [this blog post](https://lilianweng.github.io/posts/2018-10-13-flow-models/) by
 Lilian Weng. You can skip the parts on autoregressive models (PixelRNN, Wavenet).
-
 - Next, [this two-part blog post](https://blog.evjang.com/2018/01/nf1.html) by
 Eric Jang provides another view; especially the discussion on the meaning
 of the Jacobian determinant in the first part can be a nice addition. A lot of
 information will be a repetition from the first blog. You can/should skip the
 code sections; they are heavily outdated.
-
 - Finally, [Murphy's book](https://probml.github.io/pml-book/book2.html) has an
 in-depth chapter devoted to normalizing flows.
-
 - If you need a refresher, on the substitution rule for integrals,
 [the Wikipedia article](https://en.wikipedia.org/wiki/Integration_by_substitution)
 should be sufficient. The _change of variable theorem_ used for normalizing flows
