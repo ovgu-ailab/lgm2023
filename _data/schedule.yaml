@@ -142,3 +142,12 @@ lectures:
     assignment:
         - label: reading
           link: reading7.html
+
+  - date: 2023-06-01
+    type:
+    content:
+      - title: Exercise 07
+        slides:
+    assignment:
+      - label: "Assignment 6: Autoregressive Language Modeling"
+        link: ass6.html

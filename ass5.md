@@ -5,7 +5,7 @@ id: ass5
 ---
 
 
-# Assignment 5 GANs
+# Assignment 5: GANs
 **Discussion: May 25th**  
 **Deadline: May 25th, 9am**  
 
