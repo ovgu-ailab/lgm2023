@@ -162,3 +162,12 @@ lectures:
     assignment:
         - label: reading
           link: reading8.html
+
+  - date: 2023-06-08
+    type:
+    content:
+      - title: Exercise 08
+        slides:
+    assignment:
+      - label: "Assignment 7: Basic Flows"
+        link: ass7.html
