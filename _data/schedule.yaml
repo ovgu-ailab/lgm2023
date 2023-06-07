@@ -171,3 +171,14 @@ lectures:
     assignment:
       - label: "Assignment 7: Basic Flows"
         link: ass7.html
+
+  - date: 2022-06-13
+    type:
+    content:
+    - title: Denoising Diffusion Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading9.html
