@@ -182,3 +182,12 @@ lectures:
     assignment:
         - label: reading
           link: reading9.html
+
+  - date: 2023-06-15
+    type:
+    content:
+      - title: Exercise 09
+        slides:
+    assignment:
+      - label: "Assignment 8: Score-based Models"
+        link: ass8c.html
