@@ -191,3 +191,14 @@ lectures:
     assignment:
       - label: "Assignment 8: Score-based Models"
         link: ass8c.html
+
+  - date: 2022-06-20
+    type:
+    content:
+    - title: Text-to-Image Generative Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading10.html
