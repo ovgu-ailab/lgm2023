@@ -202,3 +202,12 @@ lectures:
     assignment:
         - label: reading
           link: reading10.html
+
+  - date: 2023-06-22
+    type:
+    content:
+      - title: Exercise 10
+        slides:
+    assignment:
+      - label: "Assignment 9: Denoising Diffusion Models"
+        link: ass8c.html
