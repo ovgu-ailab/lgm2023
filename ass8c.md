@@ -59,7 +59,7 @@ package.
 
 The loss is relatively simple, for example, you can find it in equation 2 of the
 improved paper (section 2.2). There, `x` is a data sample, and "x tilde" is a
-noisy version of that sample. Noisy versions are attaines simply by adding
+noisy version of that sample. Noisy versions are attained simply by adding
 random normal noise with mean 0 and  the given standard deviation.
 
 The problem is that we need to sum the loss over all noise scales, and the score
