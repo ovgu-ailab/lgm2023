@@ -35,6 +35,13 @@ equation 4, in section 2.
 You can experiment with smaller `T`, but will likely need to increase the `beta`
 terms to make up for this -- and make sure `alpha_bar` is still going to 0.
 
+Finally: Note that the paper scales data to [-1, 1] instead of the usual [0, 1].
+They do this so that the scale at different noise levels is more consistent (as
+the noisy data goes to mean 0, standard deviation 1). Another option could be to
+scale the data to mean 0, standard deviation 1. Simply leaving it in [0, 1] may
+also work. Whatever you do, note that you may need to reverse this scaling (scale
+back to [0, 1]) before plotting samples from your model.
+
 
 ## Time-conditional Model
 

@@ -34,4 +34,12 @@ models (as are all the remaining systems on this list).
 this list not created by a major company, and the basis of the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 system.
 - [DALL-E 2](https://cdn.openai.com/papers/dall-e-2.pdf) by OpenAI.
-- [Imagen](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf) by Google.
+- [Imagen](https://arxiv.org/pdf/2205.11487.pdf) by Google.
+
+## Bonus
+
+- The OpenAI models use [CLIP](https://arxiv.org/pdf/2103.00020.pdf) as an important
+component.
+- Similar technology is also being explored for music: See
+[MusicLM](https://google-research.github.io/seanet/musiclm/examples/) by Google
+or [MusicGen](https://ai.honu.io/papers/musicgen/) by Meta.
