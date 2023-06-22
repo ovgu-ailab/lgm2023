@@ -222,3 +222,12 @@ lectures:
     assignment:
         - label: reading
           link: reading11.html
+
+  - date: 2023-06-29
+    type:
+    content:
+      - title: Exercise 10
+        slides:
+    assignment:
+      - label: "Assignment 10: Conditional Models & Guided Diffusion"
+        link: ass10.html
