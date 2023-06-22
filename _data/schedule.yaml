@@ -211,3 +211,14 @@ lectures:
     assignment:
       - label: "Assignment 9: Denoising Diffusion Models"
         link: ass9.html
+
+  - date: 2022-06-27
+    type:
+    content:
+    - title: Selected Advanced Topics
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading11.html
