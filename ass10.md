@@ -12,7 +12,7 @@ id: ass10
 For this assignment, you will need a working diffusion model implementation. Either
 - Use your own one (if it works ;))
 - Find one on "the internet"
-- Use the one uploaded on Gitlab [here](https://code.ovgu.de/ai-lab/teaching/lgm/learning-generative-models-2023/-/blob/main/assignment09_starter.ipynb)
+- Use the one uploaded on Gitlab [here](https://code.ovgu.de/ai-lab/teaching/lgm/learning-generative-models-2023/-/blob/main/assignment09_small.ipynb)
 
 The  latter is recommended as it is self-contained and extendable.
 
