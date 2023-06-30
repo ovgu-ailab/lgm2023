@@ -231,3 +231,14 @@ lectures:
     assignment:
       - label: "Assignment 10: Conditional Models & Guided Diffusion"
         link: ass10.html
+
+  - date: 2022-07-04
+    type:
+    content:
+    - title: Large Language Models
+      slides:
+    reading:
+    - title: "Selected resources"
+    assignment:
+        - label: reading
+          link: reading12.html
