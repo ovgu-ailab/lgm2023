@@ -226,7 +226,7 @@ lectures:
   - date: 2023-06-29
     type:
     content:
-      - title: Exercise 10
+      - title: Exercise 11
         slides:
     assignment:
       - label: "Assignment 10: Conditional Models & Guided Diffusion"
@@ -242,3 +242,12 @@ lectures:
     assignment:
         - label: reading
           link: reading12.html
+
+  - date: 2023-07-06
+    type:
+    content:
+      - title: Exercise 12
+        slides:
+    assignment:
+      - label: "OPTIONAL Assignment 11: VQ-VAE"
+        link: ass11.html
