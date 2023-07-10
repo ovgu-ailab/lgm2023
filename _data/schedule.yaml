@@ -251,3 +251,10 @@ lectures:
     assignment:
       - label: "OPTIONAL Assignment 11: VQ-VAE"
         link: ass11.html
+
+
+  - date: 2022-07-11
+    type:
+    content:
+    - title: Recap
+      slides:
