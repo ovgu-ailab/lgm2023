@@ -258,3 +258,8 @@ lectures:
     content:
     - title: Recap
       slides:
+    reading:
+    - title: "Course Summary"
+    assignment:
+        - label: reading
+          link: recap.html
